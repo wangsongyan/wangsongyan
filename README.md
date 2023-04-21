@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[blog](https://wangsy.me)
+
 ![wangsongyan github stats](https://github-readme-stats.vercel.app/api?username=wangsongyan)
 
 <!--
